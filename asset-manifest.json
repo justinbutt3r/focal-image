@@ -1,6 +1,23 @@
 {
-  "main.css": "static/css/main.65027555.css",
-  "main.css.map": "static/css/main.65027555.css.map",
-  "main.js": "static/js/main.4e38a331.js",
-  "main.js.map": "static/js/main.4e38a331.js.map"
+  "files": {
+    "main.css": "/@justinbutt3r/focal-image/static/css/main.a2b7b0b6.chunk.css",
+    "main.js": "/@justinbutt3r/focal-image/static/js/main.db23594e.chunk.js",
+    "main.js.map": "/@justinbutt3r/focal-image/static/js/main.db23594e.chunk.js.map",
+    "runtime-main.js": "/@justinbutt3r/focal-image/static/js/runtime-main.449f2b00.js",
+    "runtime-main.js.map": "/@justinbutt3r/focal-image/static/js/runtime-main.449f2b00.js.map",
+    "static/js/2.2569529f.chunk.js": "/@justinbutt3r/focal-image/static/js/2.2569529f.chunk.js",
+    "static/js/2.2569529f.chunk.js.map": "/@justinbutt3r/focal-image/static/js/2.2569529f.chunk.js.map",
+    "index.html": "/@justinbutt3r/focal-image/index.html",
+    "precache-manifest.4cffc506d2f7440dbcba7025d2a027aa.js": "/@justinbutt3r/focal-image/precache-manifest.4cffc506d2f7440dbcba7025d2a027aa.js",
+    "service-worker.js": "/@justinbutt3r/focal-image/service-worker.js",
+    "static/css/main.a2b7b0b6.chunk.css.map": "/@justinbutt3r/focal-image/static/css/main.a2b7b0b6.chunk.css.map",
+    "static/js/2.2569529f.chunk.js.LICENSE.txt": "/@justinbutt3r/focal-image/static/js/2.2569529f.chunk.js.LICENSE.txt",
+    "static/js/main.db23594e.chunk.js.LICENSE.txt": "/@justinbutt3r/focal-image/static/js/main.db23594e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.449f2b00.js",
+    "static/js/2.2569529f.chunk.js",
+    "static/css/main.a2b7b0b6.chunk.css",
+    "static/js/main.db23594e.chunk.js"
+  ]
 }
